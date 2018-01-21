@@ -21,7 +21,7 @@
     "url": "https://github.com/TheSin-/bitcore-message-terracoin.git"
   },
   "dependencies": {
-    "bitcore-lib-terracoin": "^0.15.2"
+    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin"
   },
   "devDependencies": {
     "bitcore-build-terracoin": "TheSin-/bitcore-build-terracoin",
