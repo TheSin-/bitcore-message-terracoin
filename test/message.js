@@ -11,11 +11,11 @@ var Message = require('../');
 
 describe('Message', function() {
 
-  var address = 'n1ZCYg9YXtB5XCZazLxSmPDa8iwJRZHhGx';
+  var address = 'mq5rwpgbNFNbhYDJPGyJLBrGuhV7Srm4c6';
   var badAddress = 'mmRcrB5fTwgxaFJmVLNtaG8SV454y1E3kC';
-  var privateKey = bitcore.PrivateKey.fromWIF('cPBn5A4ikZvBTQ8D7NnvHZYCAxzDZ5Z2TSGW2LkyPiLxqYaJPBW4');
+  var privateKey = bitcore.PrivateKey.fromWIF('92gZnL5vfv4J2uYjPTFasKvJ2H9KWvACqtmzv2rnWhSCJ3LETCg');
   var text = 'hello, world';
-  var signatureString = 'H/DIn8uA1scAuKLlCx+/9LnAcJtwQQ0PmcPrJUq90aboLv3fH5fFvY+vmbfOSFEtGarznYli6ShPr9RXwY9UrIY=';
+  var signatureString = 'GyBXRZNZcnRYJahWZzgvx6v/43o5Tqe27CTMsnCkqjLxB4TPMdQNdTF2fRUS8PU+rrDsw9xbosFKd4KDLIV6a8U=';
 
   var badSignatureString = 'H69qZ4mbZCcvXk7CWjptD5ypnYVLvQ3eMXLM8+1gX21SLH/GaFnAjQrDn37+TDw79i9zHhbiMMwhtvTwnPigZ6k=';
 
