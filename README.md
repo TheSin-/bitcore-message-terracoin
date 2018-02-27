@@ -2,12 +2,12 @@
 
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-message-terracoin.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-message-terracoin)
-[![Build Status](https://img.shields.io/travis/TheSin-/bitcore-message-terracoin.svg?branch=master&style=flat-square)](https://travis-ci.org/TheSin-/bitcore-message-terracoin)
-[![Coverage Status](https://img.shields.io/coveralls/TheSin-/bitcore-message-terracoin.svg?style=flat-square)](https://coveralls.io/r/TheSin-/bitcore-message-terracoin?branch=master)
+[![Build Status](https://img.shields.io/travis/terracoin/bitcore-message-terracoin.svg?branch=master&style=flat-square)](https://travis-ci.org/terracoin/bitcore-message-terracoin)
+[![Coverage Status](https://img.shields.io/coveralls/terracoin/bitcore-message-terracoin.svg?style=flat-square)](https://coveralls.io/r/terracoin/bitcore-message-terracoin?branch=master)
 
 bitcore-message-terracoin adds support for verifying and signing terracoin messages in [Node.js](http://nodejs.org/) and web browsers.
 
-See [the main bitcore-terracoin repo](https://github.com/TheSin-bitcore-terracoin) for more information.
+See [the main bitcore-terracoin repo](https://github.com/terracoin/bitcore-terracoin) for more information.
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ var verified = Message('hello, world').verify(address, signature);
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/TheSin-/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/terracoin/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
 
 ## License
 

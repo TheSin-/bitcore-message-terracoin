@@ -2,7 +2,7 @@
   "name": "bitcore-message-terracoin",
   "main": "./bitcore-message.min.js",
   "version": "1.0.4",
-  "homepage": "https://github.com/TheSin-/bitcore-message-terracoin",
+  "homepage": "https://github.com/terracoin/bitcore-message-terracoin",
   "authors": [
     "BitPay"
   ],
